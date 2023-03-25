@@ -92,5 +92,3 @@ let rotatearray = (arr, k) => {
   return arr;
 };
 console.log(rotatearray(abc, k));
-
-//hii
