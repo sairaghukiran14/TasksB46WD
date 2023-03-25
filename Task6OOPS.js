@@ -29,7 +29,7 @@ let m3 = new movie("Msmarvel", "marvel", "R");
 let m4 = new movie("Worldwar HUlk", "marvel", "3R");
 let moviesarray = [m1, m2, m3, m4];
 //getPG(moviesarray);
-//
+
 //Write a “person” class to hold all the details.
 
 class person {
