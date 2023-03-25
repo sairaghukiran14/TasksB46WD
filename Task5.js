@@ -71,7 +71,7 @@ let sarr1 = [1, 2, 3, 4, 5, 6, 7, 8];
 let sarr2 = [11, 13, 14];
 let medianof2 = () => {};
 
-//Remove duplicates from an array
+//Remove duplicates from an  array
 
 let a1 = [1, 3, 3, 4, 5, 5, 7, 8, 9];
 let remdup = (a1) => {
